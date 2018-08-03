@@ -1,0 +1,3 @@
+Authenticating with User Pool
+Getting temporary credentials
+Making API request
